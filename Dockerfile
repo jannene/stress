@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER vishnuk@google.com
+MAINTAINER dockerlite@google.com
 
 ADD stress /
 
